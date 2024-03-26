@@ -1,0 +1,23 @@
+.top{
+    position: relative;
+    width: 100%;
+    background-color: green;
+    
+
+}
+
+.navabr{
+    position: absolute;
+    left: 100px;
+    display: inline-block;
+
+}
+
+.navabr ul li{
+    position: absolute;
+    left: 100px;
+    display: inline-block;
+    align-items: center;
+
+
+}
